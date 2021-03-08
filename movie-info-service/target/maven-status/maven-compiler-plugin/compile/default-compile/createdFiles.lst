@@ -1,0 +1,3 @@
+io\jbmovie\movieinfoservice\models\Movie.class
+io\jbmovie\movieinfoservice\resources\MovieResource.class
+io\jbmovie\movieinfoservice\MovieInfoServiceApplication.class
